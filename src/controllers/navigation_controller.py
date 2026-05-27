@@ -31,13 +31,13 @@ from __future__ import annotations
 from PySide6.QtWidgets import QStackedWidget, QFileDialog
 from PySide6.QtCore import QObject
 
-from controllers import GameController
-from screens.main_menu_screen import MainMenuScreen
-from screens.local_match_screen import LocalMatchScreen
-from screens.ai_match_screen import AiMatchScreen
-from screens.victory_screen import VictoryScreen
-from screens.board_screen import BoardScreen
-from screens.rules_screen import RulesScreen
+from controllers.game_controller import GameController
+from views.screens.main_menu_screen import MainMenuScreen
+from views.screens.local_match_screen import LocalMatchScreen
+from views.screens.ai_match_screen import AiMatchScreen
+from views.screens.victory_screen import VictoryScreen
+from views.screens.board_screen import BoardScreen
+from views.screens.rules_screen import RulesScreen
 
 # Screen index constants — import these in GameController for readability
 IDX_MAIN_MENU   = 0
