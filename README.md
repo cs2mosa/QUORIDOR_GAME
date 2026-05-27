@@ -319,18 +319,6 @@ The video covers:
 
 ---
 
-## Team Members
-
-| Name | ID | Role |
-|------|-----|------|
-| [Member 1] | [ID] | Model & Pathfinder Engineer |
-| [Member 2] | [ID] | Board Rendering & Visual Polish Engineer |
-| [Member 3] | [ID] | AI Engineer |
-| [Member 4] | [ID] | Screen & Navigation Engineer |
-| [Member 5] | [ID] | Documentation, QA & Bonus Features Engineer |
-
----
-
 ## References
 
 1. **Official Quoridor Rules** — Gigamic Games  
