@@ -31,7 +31,7 @@ from __future__ import annotations
 from PySide6.QtWidgets import QStackedWidget, QFileDialog
 from PySide6.QtCore import QObject
 
-from controllers import GameController
+from controllers.game_controller import GameController
 from views.screens.main_menu_screen import MainMenuScreen
 from views.screens.local_match_screen import LocalMatchScreen
 from views.screens.ai_match_screen import AiMatchScreen
