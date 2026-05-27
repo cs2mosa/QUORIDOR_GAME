@@ -22,6 +22,26 @@ An interactive, dark-themed, and highly optimized desktop implementation of the 
 *   **Save/Load Support**: Allows players to serialize and resume match states using a structured JSON pipeline.
 *   **Rules Guide**: An interactive, responsive guide screen that explains the game objectives and mechanics.
 
+## Screenshots of Game in action
+
+* **Main Menu Screen** 
+![](./screenshots/Main%20menu.png)
+---
+* **Match Setup Screens** 
+![](./screenshots/local%20match.png)
+![](./screenshots/ai%20match.png)
+---
+* **Board Gameplay Screen**
+![](./screenshots/gameplay.png)
+---
+* **Victory Screen**
+![](./screenshots/vcitory%20screen.png)
+---
+* **Save/Load feature**
+![](./screenshots/save%20match.png)
+![](./screenshots/load%20match.png)
+---
+
 ## Installation & Setup
 
 ### Prerequisites
